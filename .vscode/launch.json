@@ -2,10 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            
-            "sourceFileMap": {
-                "/build": "/usr/src/glibc"
-            },
+
             "name": "C/C++",
             "type": "cppdbg",
             "request": "launch",
